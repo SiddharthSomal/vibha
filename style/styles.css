@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+.top{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: #F07DEA;
+    margin: 0;
+    padding: 2% 15%;
+    border: 0;
+    font-size: 150%;
+}
+h1{
+    margin:0;
+}
+.panda-img{
+    height: 25%;
+    width:25%;
+    position: relative;
+    right: 25%;
+}
+.pic1{
+    height:100%;
+    width: 85%;
+}
+.sec{
+    background-color: #C1EFFF;
+    margin: 0;
+    padding: 2% 15%;
+    border: 0;
+    font-family: 'Source Code Pro', monospace;
+}
+.bakwas1{
+    padding-top: 50%;
+}
+.third{
+    font-family: 'Source Code Pro', monospace;
+    margin: 0;
+    padding: 2% 15%;
+    border: 0;
+    background-color: black;
+    color:white ;
+}
